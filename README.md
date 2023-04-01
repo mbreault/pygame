@@ -1,0 +1,2 @@
+# pygame
+Example of pygame
